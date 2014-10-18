@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="libs/gdx.jar" sourcepath="libs/gdx-sources.jar"/>
+	<classpathentry kind="lib" path="libs/cmu_time_awb.jar"/>
+	<classpathentry kind="lib" path="libs/cmu_us_kal.jar"/>
+	<classpathentry kind="lib" path="libs/cmudict04.jar"/>
+	<classpathentry kind="lib" path="libs/cmulex.jar"/>
+	<classpathentry kind="lib" path="libs/cmutimelex.jar"/>
+	<classpathentry kind="lib" path="libs/en_us.jar"/>
+	<classpathentry kind="lib" path="libs/freetts-jsapi10.jar"/>
+	<classpathentry kind="lib" path="libs/freetts.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
